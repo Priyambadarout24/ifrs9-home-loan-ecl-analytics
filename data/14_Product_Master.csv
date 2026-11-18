@@ -1,0 +1,4 @@
+Product_Code,Product_Name,Interest_Min,Interest_Max,Min_Tenure,Max_Tenure,Min_LTV,Max_LTV
+HL_STD,Home Loan Standard,8.35,10.75,60,360,50,90
+HL_BT,Home Loan Balance Transfer,8.25,10.25,60,300,50,85
+HL_TOPUP,Home Loan Top-up,9.25,12.5,12,180,0,75
