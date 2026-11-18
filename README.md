@@ -2,7 +2,7 @@
 
 An end-to-end credit risk analytics project on a retail home loan portfolio, covering portfolio performance monitoring, collections strategy and IFRS 9 Expected Credit Loss (ECL). It follows the full loan lifecycle from application to monthly performance and collections, for 19,659 disbursed home loans.
 
-**Stack:** SQL Server (T-SQL) · SAS OnDemand for Academics · Power BI (DAX, Power Query)
+**Stack:** SQL Server  · SAS · Power BI (DAX, Power Query)
 
 ---
 
