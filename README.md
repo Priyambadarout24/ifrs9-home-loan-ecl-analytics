@@ -107,7 +107,7 @@ ECL is calculated for the 19,659 disbursed loans, out of 100,000 applications. O
 ```
 ifrs9-home-loan-ecl-analytics/
 ├── README.md
-├── sql/        # Phase 1 to 4C T-SQL scripts (staging, monitoring, collections, IFRS 9)
+├── sql/        # Phase 1 to 4C SQL scripts (staging, monitoring, collections, IFRS 9)
 ├── sas/        # Phase 4B: Markov-chain PD, macro overlay, ECL
 ├── data/       # 16 source CSV files (14 loan files + 2 macro files)
 ├── powerbi/    # .pbix file
