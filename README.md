@@ -24,13 +24,13 @@ Credit risk, collections and finance teams needed one governed view to answer:
 | IFRS9 and ECL | Stage mix, ECL, EAD and coverage ratio by stage, loans by LGD band |
 
 ### Portfolio Monitoring
-![Portfolio Monitoring](images/page_1.png)
+![Portfolio Monitoring](images/image_1.png)
 
 ### Collections Strategy
-![Collections Strategy](images/page_2.png)
+![Collections Strategy](images/image_2.png)
 
 ### IFRS9 and ECL
-![IFRS9 and ECL](images/page_3.png)
+![IFRS9 and ECL](images/image_3.png)
 
 ## 3. Key Findings
 
